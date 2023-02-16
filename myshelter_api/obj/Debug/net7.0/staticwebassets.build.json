@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tfgaYDRqStiX+AGY8sc/fu1JSK38x/mIIuLtK08Uz1M=",
+  "Source": "myshelter_api",
+  "BasePath": "_content/myshelter_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
